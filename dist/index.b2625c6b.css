@@ -1,0 +1,39 @@
+.header-container {
+    width: 100%; 
+}
+
+.header-wrapper {
+    width: 80%; 
+    margin: 0 auto; 
+}
+
+h1 {
+    text-align: center;
+}
+
+.body-container {
+    width: 100%; 
+}
+
+.body-wrapper {
+    width: 60%; 
+    margin: 0 auto; 
+    overflow: hidden;
+}
+
+.display-task-container {
+    width: 100%; 
+}
+
+.display-task-wrapper {
+    width: 60%; 
+    margin: 0 auto; 
+    overflow: hidden;
+}
+
+
+
+
+
+
+/*# sourceMappingURL=index.b2625c6b.css.map */
