@@ -521,10 +521,9 @@ function hmrAcceptRun(bundle, id) {
 },{}],"8lqZg":[function(require,module,exports) {
 var _litHtml = require("lit-html");
 var _addTaskJs = require("./addTask.js");
-var _displayTaskJs = require("./displayTask.js");
 _litHtml.render(_addTaskJs.addTask(), document.querySelector(".body-wrapper")); // render(displayTask(), document.querySelector(".display-task-wrapper"));
 
-},{"lit-html":"1cmQt","./addTask.js":"kexbG","./displayTask.js":"ezTKl"}],"1cmQt":[function(require,module,exports) {
+},{"lit-html":"1cmQt","./addTask.js":"kexbG"}],"1cmQt":[function(require,module,exports) {
 var parcelHelpers = require("@parcel/transformer-js/src/esmodule-helpers.js");
 parcelHelpers.defineInteropFlag(exports);
 parcelHelpers.export(exports, "_$LH", ()=>R
@@ -870,7 +869,6 @@ parcelHelpers.export(exports, "addTask", ()=>addTask
 );
 var _litHtml = require("lit-html");
 var _styleMapJs = require("lit-html/directives/style-map.js");
-var _displayTaskJs = require("./displayTask.js");
 const addTask = ()=>{
     addTaskContainer = {
         width: "80%",
@@ -888,12 +886,75 @@ const addTask = ()=>{
         width: "100%",
         height: "36px"
     };
+    taskList = {
+        width: "100%",
+        float: "left",
+        backgroundColor: "#e6fff3"
+    };
+    buttomElement = {
+        marginTop: "3em"
+    };
     let tasks = [];
     const onClickEvent = ()=>{
         let newTask = document.querySelector(".task-input").value;
-        tasks.push(newTask);
+        const taskListHtml = document.querySelector(".task-list");
+        taskListHtml.innerHTML = "";
+        tasks = [
+            ...tasks,
+            newTask
+        ];
+        const tasksLi = tasks.map((task, i)=>displayTask(task, i)
+        );
+        tasksLi.map((li)=>taskListHtml.appendChild(li)
+        );
     };
-    return _litHtml.html` <div style=${_styleMapJs.styleMap(addTaskContainer)}>
+    const displayTask = (task, i)=>{
+        let li = document.createElement("li");
+        // li.classList.add("current-task");
+        li.style.marginBottom = "10px";
+        li.style.listStyleType = "none";
+        li.style.margin = "10px";
+        li.style.fontSize = "15px";
+        li.appendChild(document.createTextNode(task));
+        li.setAttribute("id", i);
+        const button = onCompleteTask(i, task);
+        const removeTaskButton = onRemoveTask(i, task);
+        const hr = document.createElement("hr");
+        li.appendChild(button);
+        li.appendChild(removeTaskButton);
+        li.appendChild(hr);
+        return li;
+    };
+    const onCompleteTask = (i, task)=>{
+        let button = document.createElement("button");
+        button.innerHTML = "Completed!";
+        button.style.display = "block";
+        button.style.marginBottom = "5px";
+        button.style.marginTop = "10px";
+        button.addEventListener("click", ()=>{
+            let currentTask = document.getElementById(`${i}`);
+            currentTask.style.textDecoration = "line-through";
+            tasks = tasks.filter((t)=>t != task
+            );
+        });
+        return button;
+    };
+    const onRemoveTask = (i, task)=>{
+        let completedButton = document.createElement("button");
+        completedButton.innerHTML = "Delete task";
+        completedButton.style.display = "inline-block";
+        completedButton.style.marginBottom = "5px";
+        // completedButton.style.marginLeft = "20px";
+        completedButton.addEventListener("click", ()=>{
+            let currentTask = document.getElementById(`${i}`);
+            currentTask.remove();
+            tasks = tasks.filter((t)=>t != task
+            );
+        });
+        return completedButton;
+    };
+    return _litHtml.html`
+    <div style=${_styleMapJs.styleMap(addTaskContainer)}>
       <input
         style=${_styleMapJs.styleMap(addTaskInput)}
         class="task-input"
@@ -905,10 +966,13 @@ const addTask = ()=>{
       <button @click=${onClickEvent} style=${_styleMapJs.styleMap(addTaskButton)}>
         Add
       </button>
-    </div>`;
+    </div>
+    <ul class="task-list" style=${_styleMapJs.styleMap(taskList)}></ul>
+    <div class="button-element" style=${_styleMapJs.styleMap(buttomElement)}></div>
+  `;
 };
 
-},{"lit-html":"1cmQt","lit-html/directives/style-map.js":"kqcVU","@parcel/transformer-js/src/esmodule-helpers.js":"gkKU3","./displayTask.js":"ezTKl"}],"kqcVU":[function(require,module,exports) {
+},{"lit-html":"1cmQt","lit-html/directives/style-map.js":"kqcVU","@parcel/transformer-js/src/esmodule-helpers.js":"gkKU3"}],"kqcVU":[function(require,module,exports) {
 var parcelHelpers = require("@parcel/transformer-js/src/esmodule-helpers.js");
 parcelHelpers.defineInteropFlag(exports);
 parcelHelpers.export(exports, "styleMap", ()=>i
@@ -990,19 +1054,6 @@ class i {
     }
 }
 
-},{"@parcel/transformer-js/src/esmodule-helpers.js":"gkKU3"}],"ezTKl":[function(require,module,exports) {
-var parcelHelpers = require("@parcel/transformer-js/src/esmodule-helpers.js");
-parcelHelpers.defineInteropFlag(exports);
-parcelHelpers.export(exports, "displayTask", ()=>displayTask
-);
-var _litHtml = require("lit-html");
-var _styleMapJs = require("lit-html/directives/style-map.js");
-const displayTask = (tasks)=>{
-    console.log(tasks);
-    _litHtml.html` ${tasks.map((item)=>_litHtml.html`<li>${item}</li>`
-    )} `;
-};
-
-},{"lit-html":"1cmQt","lit-html/directives/style-map.js":"kqcVU","@parcel/transformer-js/src/esmodule-helpers.js":"gkKU3"}]},["7nZVA","8lqZg"], "8lqZg", "parcelRequiref8f3")
+},{"@parcel/transformer-js/src/esmodule-helpers.js":"gkKU3"}]},["7nZVA","8lqZg"], "8lqZg", "parcelRequiref8f3")
 
 //# sourceMappingURL=index.975ef6c8.js.map

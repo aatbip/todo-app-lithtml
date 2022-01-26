@@ -1,4 +1,4 @@
-13235
+13234
 51/home/ananta/Projects/todo-app-litHtml/package.json1643047314240075708 0
 49/home/ananta/Projects/todo-app-litHtml/.gitignore1643174210077231295 0
 49/home/ananta/Projects/todo-app-litHtml/index.html1643053814254914383 0
@@ -3847,7 +3847,7 @@
 75/home/ananta/Projects/todo-app-litHtml/node_modules/es-abstract/2019/Get.js1643046921940000000 0
 82/home/ananta/Projects/todo-app-litHtml/node_modules/@parcel/core/src/Validation.js1643046875698999000 0
 83/home/ananta/Projects/todo-app-litHtml/node_modules/es-abstract/2015/HasProperty.js1643046921940000000 0
-51/home/ananta/Projects/todo-app-litHtml/src/index.js1643088774732259799 0
+51/home/ananta/Projects/todo-app-litHtml/src/index.js1643197264411074870 0
 85/home/ananta/Projects/todo-app-litHtml/node_modules/core-js/stable/instance/values.js1643046902766000000 0
 78/home/ananta/Projects/todo-app-litHtml/node_modules/vm-browserify/CHANGELOG.md1635308051253000000 0
 83/home/ananta/Projects/todo-app-litHtml/node_modules/@babel/traverse/lib/visitors.js1643046902551000000 0
@@ -3947,7 +3947,7 @@
 69/home/ananta/Projects/todo-app-litHtml/node_modules/terser/PATRONS.md1643046900282999000 0
 93/home/ananta/Projects/todo-app-litHtml/node_modules/lmdb/prebuilds/win32-x64/node.abi102.node1643046903930999000 0
 78/home/ananta/Projects/todo-app-litHtml/node_modules/yaml/browser/dist/types.js1643046909982000000 0
-43/home/ananta/Projects/todo-app-litHtml/dist1643174228713025371 1
+43/home/ananta/Projects/todo-app-litHtml/dist1643197264831076911 1
 68/home/ananta/Projects/todo-app-litHtml/node_modules/isexe/windows.js1635308078539000000 0
 90/home/ananta/Projects/todo-app-litHtml/node_modules/@babel/plugin-syntax-flow/package.json1643046917749000000 0
 78/home/ananta/Projects/todo-app-litHtml/node_modules/es-abstract/2020/Invoke.js1643046921940000000 0
@@ -5296,13 +5296,6 @@
 90/home/ananta/Projects/todo-app-litHtml/node_modules/caniuse-lite/data/features/css-grid.js1643046899467999000 0
 90/home/ananta/Projects/todo-app-litHtml/node_modules/@babel/helper-validator-option/LICENSE1643046913243000000 0
 74/home/ananta/Projects/todo-app-litHtml/node_modules/mimic-response/license1635308084434999000 0
-70/home/ananta/Projects/todo-app-litHtml/node_modules/bl/test/indexOf.js1643046906747999000 0
-101/home/ananta/Projects/todo-app-litHtml/node_modules/caniuse-lite/data/features/http-live-streaming.js1643046899467999000 0
-80/home/ananta/Projects/todo-app-litHtml/node_modules/core-js/stable/array/virtual1643047313648073278 1
-83/home/ananta/Projects/todo-app-litHtml/node_modules/caniuse-lite/data/regions/AG.js1643046899467999000 0
-73/home/ananta/Projects/todo-app-litHtml/node_modules/assert/build/internal1643047313408072293 1
-92/home/ananta/Projects/todo-app-litHtml/node_modules/es-abstract/2016/ToPropertyDescriptor.js1643046921940000000 0
-71/home/ananta/Projects/todo-app-litHtml/node_modules/@types/node/v8.d.ts1643046908904000000 0
 76/home/ananta/Projects/todo-app-litHtml/node_modules/weak-lru-cache/README.md1643046915858000000 0
 93/home/ananta/Projects/todo-app-litHtml/node_modules/core-js/features/typed-array/to-sorted.js1643046902766000000 0
 87/home/ananta/Projects/todo-app-litHtml/node_modules/get-symbol-description/package.json1635308060084000000 0
@@ -5400,7 +5393,7 @@
 89/home/ananta/Projects/todo-app-litHtml/node_modules/source-map/dist/source-map.min.js.map1635308064566999000 0
 74/home/ananta/Projects/todo-app-litHtml/node_modules/util-deprecate/LICENSE1635308058065000000 0
 96/home/ananta/Projects/todo-app-litHtml/node_modules/stylehacks/dist/plugins/mediaSlash0Slash9.js1643046920362999000 0
-62/home/ananta/Projects/todo-app-litHtml/dist/index.b2625c6b.css1643088592946303980 0
+62/home/ananta/Projects/todo-app-litHtml/dist/index.b2625c6b.css1643197264783076679 0
 68/home/ananta/Projects/todo-app-litHtml/node_modules/type-fest/source1643047313404072276 1
 103/home/ananta/Projects/todo-app-litHtml/node_modules/caniuse-lite/data/features/requestanimationframe.js1643046899467999000 0
 94/home/ananta/Projects/todo-app-litHtml/node_modules/es-abstract/helpers/isTrailingSurrogate.js1643046921940000000 0
@@ -5492,6 +5485,11 @@
 85/home/ananta/Projects/todo-app-litHtml/node_modules/css-tree/lib/syntax/node/Value.js1635308072746000000 0
 65/home/ananta/Projects/todo-app-litHtml/node_modules/is-regex/test1643047313328071965 1
 71/home/ananta/Projects/todo-app-litHtml/node_modules/is-json/.travis.yml1643046917653000000 0
+90/home/ananta/Projects/todo-app-litHtml/node_modules/es-abstract/2015/EnumerableOwnNames.js1643046921940000000 0
+91/home/ananta/Projects/todo-app-litHtml/node_modules/core-js/actual/reflect/to-string-tag.js1643046902766000000 0
+76/home/ananta/Projects/todo-app-litHtml/node_modules/filesize/lib/filesize.js1643046894390000000 0
+73/home/ananta/Projects/todo-app-litHtml/node_modules/public-encrypt/xor.js1635308053707999000 0
+77/home/ananta/Projects/todo-app-litHtml/node_modules/package-json/node_modules1643047313756073722 1
 93/home/ananta/Projects/todo-app-litHtml/node_modules/caniuse-lite/data/features/ol-reversed.js1643046899467999000 0
 109/home/ananta/Projects/todo-app-litHtml/node_modules/update-notifier/node_modules/semver/classes/comparator.js1643046874013999000 0
 90/home/ananta/Projects/todo-app-litHtml/node_modules/es-abstract/2019/GetOwnPropertyKeys.js1643046921940000000 0
@@ -5588,7 +5586,7 @@
 72/home/ananta/Projects/todo-app-litHtml/node_modules/object.assign/.nycrc1635308060394000000 0
 75/home/ananta/Projects/todo-app-litHtml/node_modules/browserify-sign/browser1643047313160071275 1
 81/home/ananta/Projects/todo-app-litHtml/node_modules/fast-glob/out/readers/sync.js1643046878075999000 0
-65/home/ananta/Projects/todo-app-litHtml/dist/index.975ef6c8.js.map1643174228713025371 0
+65/home/ananta/Projects/todo-app-litHtml/dist/index.975ef6c8.js.map1643197264831076911 0
 82/home/ananta/Projects/todo-app-litHtml/node_modules/diffie-hellman/lib/primes.json1635308053384999000 0
 87/home/ananta/Projects/todo-app-litHtml/node_modules/postcss-reduce-initial/node_modules1643047313764073754 1
 86/home/ananta/Projects/todo-app-litHtml/node_modules/es-abstract/2015/CharacterRange.js1643046921940000000 0
@@ -5599,6 +5597,7 @@
 84/home/ananta/Projects/todo-app-litHtml/node_modules/core-js/stable/weak-set/index.js1643046902766000000 0
 97/home/ananta/Projects/todo-app-litHtml/node_modules/caniuse-lite/data/features/getrandomvalues.js1643046899467999000 0
 71/home/ananta/Projects/todo-app-litHtml/node_modules/@iarna/toml/LICENSE1643046878000000000 0
+57/home/ananta/Projects/todo-app-litHtml/node_modules/touch1643047313776073803 1
 85/home/ananta/Projects/todo-app-litHtml/node_modules/string.prototype.trimstart/.nycrc1635308060441999000 0
 69/home/ananta/Projects/todo-app-litHtml/node_modules/lru-cache/LICENSE1643046874127000000 0
 98/home/ananta/Projects/todo-app-litHtml/node_modules/@parcel/transformer-postcss/src/loadPlugins.js1643046896217000000 0
@@ -5681,6 +5680,8 @@
 83/home/ananta/Projects/todo-app-litHtml/node_modules/asn1.js/lib/asn1/base/buffer.js1635308059640000000 0
 85/home/ananta/Projects/todo-app-litHtml/node_modules/caniuse-lite/data/features/eme.js1643046899467999000 0
 58/home/ananta/Projects/todo-app-litHtml/node_modules/events1643047312900070207 1
+76/home/ananta/Projects/todo-app-litHtml/node_modules/events/tests/num-args.js1635308054676000000 0
+77/home/ananta/Projects/todo-app-litHtml/node_modules/@parcel/namer-default/lib1643047313128071143 1
 100/home/ananta/Projects/todo-app-litHtml/node_modules/es6-object-assign/dist/object-assign-auto.min.js1635308051871000000 0
 77/home/ananta/Projects/todo-app-litHtml/node_modules/@types/node/readline.d.ts1643046908904000000 0
 72/home/ananta/Projects/todo-app-litHtml/node_modules/cli-cursor/readme.md1643046906788000000 0
@@ -5703,6 +5704,20 @@
 99/home/ananta/Projects/todo-app-litHtml/node_modules/es-abstract/2019/GetPrototypeFromConstructor.js1643046921940000000 0
 80/home/ananta/Projects/todo-app-litHtml/node_modules/@parcel/cache/lib/FSCache.js1643046881611999000 0
 91/home/ananta/Projects/todo-app-litHtml/node_modules/caniuse-lite/data/features/web-share.js1643046899467999000 0
+78/home/ananta/Projects/todo-app-litHtml/node_modules/@types/node/inspector.d.ts1643046908904000000 0
+97/home/ananta/Projects/todo-app-litHtml/node_modules/core-js/modules/esnext.array.filter-reject.js1643046902766000000 0
+82/home/ananta/Projects/todo-app-litHtml/node_modules/source-map/lib/mapping-list.js1635308064566999000 0
+67/home/ananta/Projects/todo-app-litHtml/node_modules/@iarna/toml/lib1643047313100071028 1
+90/home/ananta/Projects/todo-app-litHtml/node_modules/es-abstract/2021/InstanceofOperator.js1643046921940000000 0
+89/home/ananta/Projects/todo-app-litHtml/node_modules/core-js/features/date/to-primitive.js1643046902766000000 0
+80/home/ananta/Projects/todo-app-litHtml/node_modules/core-js/stable/math/hypot.js1643046902766000000 0
+76/home/ananta/Projects/todo-app-litHtml/node_modules/xxhash-wasm/package.json1643046899928999000 0
+72/home/ananta/Projects/todo-app-litHtml/node_modules/json-source-map/spec1643047313328071965 1
+77/home/ananta/Projects/todo-app-litHtml/node_modules/es-abstract/5/ToObject.js1643046921940000000 0
+76/home/ananta/Projects/todo-app-litHtml/node_modules/@swc/helpers/lib/_jsx.js1643046908197000000 0
+107/home/ananta/Projects/todo-app-litHtml/node_modules/caniuse-lite/data/features/document-scrollingelement.js1643046899467999000 0
+98/home/ananta/Projects/todo-app-litHtml/node_modules/caniuse-lite/data/features/css-nth-child-of.js1643046899467999000 0
+84/home/ananta/Projects/todo-app-litHtml/node_modules/registry-auth-token/package.json1643046874407999000 0
 85/home/ananta/Projects/todo-app-litHtml/node_modules/registry-url/node_modules/.bin/rc1643047313772073787 0
 83/home/ananta/Projects/todo-app-litHtml/node_modules/caniuse-lite/data/regions/WS.js1643046899467999000 0
 87/home/ananta/Projects/todo-app-litHtml/node_modules/es-abstract/2020/thisBigIntValue.js1643046921940000000 0
@@ -5879,12 +5894,6 @@
 113/home/ananta/Projects/todo-app-litHtml/node_modules/caniuse-lite/data/features/client-hints-dpr-width-viewport.js1643046899467999000 0
 89/home/ananta/Projects/todo-app-litHtml/node_modules/caniuse-lite/data/features/flexbox.js1643046899467999000 0
 85/home/ananta/Projects/todo-app-litHtml/node_modules/@parcel/core/lib/public/Config.js1643046875698999000 0
-57/home/ananta/Projects/todo-app-litHtml/src/displayTask.js1643173594313986748 0
-115/home/ananta/Projects/todo-app-litHtml/node_modules/source-map-support/node_modules/source-map/lib/binary-search.js1635308055193000000 0
-95/home/ananta/Projects/todo-app-litHtml/node_modules/@babel/core/node_modules/debug/package.json1643046901359999000 0
-105/home/ananta/Projects/todo-app-litHtml/node_modules/@babel/highlight/node_modules/color-convert/README.md1635308056598000000 0
-89/home/ananta/Projects/todo-app-litHtml/node_modules/@parcel/transformer-html/node_modules1643047313712073541 1
-91/home/ananta/Projects/todo-app-litHtml/node_modules/caniuse-lite/data/features/png-alpha.js1643046899467999000 0
 99/home/ananta/Projects/todo-app-litHtml/node_modules/caniuse-lite/data/features/keyboardevent-key.js1643046899467999000 0
 83/home/ananta/Projects/todo-app-litHtml/node_modules/es-abstract/2017/HasProperty.js1643046921940000000 0
 89/home/ananta/Projects/todo-app-litHtml/node_modules/minimalistic-crypto-utils/.travis.yml1635308059631999000 0
@@ -5968,7 +5977,7 @@
 91/home/ananta/Projects/todo-app-litHtml/node_modules/jake/node_modules/color-name/.npmignore1635308059278000000 0
 85/home/ananta/Projects/todo-app-litHtml/node_modules/es-abstract/2015/IsPropertyKey.js1643046921940000000 0
 97/home/ananta/Projects/todo-app-litHtml/node_modules/caniuse-lite/data/features/promise-finally.js1643046899467999000 0
-54/home/ananta/Projects/todo-app-litHtml/dist/index.html1643088592982304353 0
+54/home/ananta/Projects/todo-app-litHtml/dist/index.html1643197264807076795 0
 92/home/ananta/Projects/todo-app-litHtml/node_modules/core-js/stable/typed-array/find-index.js1643046902766000000 0
 90/home/ananta/Projects/todo-app-litHtml/node_modules/@parcel/package-manager/lib/types.d.ts1643046874528000000 0
 83/home/ananta/Projects/todo-app-litHtml/node_modules/@babel/types/lib/builders/react1643047313624073179 1
@@ -5989,14 +5998,14 @@
 95/home/ananta/Projects/todo-app-litHtml/node_modules/@babel/helpers/lib/helpers/objectSpread2.js1643046911053999000 0
 98/home/ananta/Projects/todo-app-litHtml/node_modules/caniuse-lite/data/features/link-rel-preload.js1643046899467999000 0
 86/home/ananta/Projects/todo-app-litHtml/node_modules/core-js/internals/function-bind.js1643046902766000000 0
-77/home/ananta/Projects/todo-app-litHtml/node_modules/es-abstract/5/ToObject.js1643046921940000000 0
-76/home/ananta/Projects/todo-app-litHtml/node_modules/@swc/helpers/lib/_jsx.js1643046908197000000 0
 71/home/ananta/Projects/todo-app-litHtml/node_modules/term-size/readme.md1643046894743000000 0
 85/home/ananta/Projects/todo-app-litHtml/node_modules/htmlnano/docs/docs/050-modules.md1643046903088999000 0
 97/home/ananta/Projects/todo-app-litHtml/node_modules/caniuse-lite/data/features/css-containment.js1643046899467999000 0
 87/home/ananta/Projects/todo-app-litHtml/node_modules/cssnano-preset-default/package.json1643046910084000000 0
 94/home/ananta/Projects/todo-app-litHtml/node_modules/caniuse-lite/data/features/transforms2d.js1643046899467999000 0
 86/home/ananta/Projects/todo-app-litHtml/node_modules/es-abstract/2018/PromiseResolve.js1643046921940000000 0
+92/home/ananta/Projects/todo-app-litHtml/node_modules/highlight.js/lib/languages/livescript.js1643046916428999000 0
+98/home/ananta/Projects/todo-app-litHtml/node_modules/dom-serializer/node_modules/entities/readme.md1635308088763999000 0
 78/home/ananta/Projects/todo-app-litHtml/node_modules/es-abstract/5/ToBoolean.js1643046921940000000 0
 106/home/ananta/Projects/todo-app-litHtml/node_modules/caniuse-lite/data/features/input-autocomplete-onoff.js1643046899467999000 0
 64/home/ananta/Projects/todo-app-litHtml/node_modules/elliptic/lib1643047313236071586 1
@@ -6037,8 +6046,6 @@
 100/home/ananta/Projects/todo-app-litHtml/node_modules/caniuse-lite/data/features/css-color-function.js1643046899467999000 0
 70/home/ananta/Projects/todo-app-litHtml/node_modules/touch/package.json1643046874000000000 0
 81/home/ananta/Projects/todo-app-litHtml/node_modules/core-js/es/instance/concat.js1643046902766000000 0
-92/home/ananta/Projects/todo-app-litHtml/node_modules/highlight.js/lib/languages/livescript.js1643046916428999000 0
-98/home/ananta/Projects/todo-app-litHtml/node_modules/dom-serializer/node_modules/entities/readme.md1635308088763999000 0
 65/home/ananta/Projects/todo-app-litHtml/node_modules/debug/node.js1635308057592000000 0
 91/home/ananta/Projects/todo-app-litHtml/node_modules/es-abstract/2019/OrdinaryHasProperty.js1643046921940000000 0
 70/home/ananta/Projects/todo-app-litHtml/node_modules/yaml/browser/types1643047313624073179 1
@@ -6083,7 +6090,6 @@
 52/home/ananta/Projects/todo-app-litHtml/css/style.css1643052648490657748 0
 86/home/ananta/Projects/todo-app-litHtml/node_modules/core-js/actual/typed-array/fill.js1643046902766000000 0
 77/home/ananta/Projects/todo-app-litHtml/node_modules/@iarna/toml/lib/parser.js1643046878000000000 0
-57/home/ananta/Projects/todo-app-litHtml/node_modules/touch1643047313776073803 1
 83/home/ananta/Projects/todo-app-litHtml/node_modules/caniuse-lite/data/regions/GY.js1643046899467999000 0
 72/home/ananta/Projects/todo-app-litHtml/node_modules/browserslist/node.js1643046879846999000 0
 67/home/ananta/Projects/todo-app-litHtml/node_modules/isexe/README.md1635308078539000000 0
@@ -6154,6 +6160,10 @@
 91/home/ananta/Projects/todo-app-litHtml/node_modules/lit-html/directives/template-content.js1643046873894000000 0
 105/home/ananta/Projects/todo-app-litHtml/node_modules/caniuse-lite/data/features/font-variant-east-asian.js1643046899467999000 0
 73/home/ananta/Projects/todo-app-litHtml/node_modules/events/tests/index.js1635308054676000000 0
+95/home/ananta/Projects/todo-app-litHtml/node_modules/@babel/core/node_modules/debug/package.json1643046901359999000 0
+105/home/ananta/Projects/todo-app-litHtml/node_modules/@babel/highlight/node_modules/color-convert/README.md1635308056598000000 0
+89/home/ananta/Projects/todo-app-litHtml/node_modules/@parcel/transformer-html/node_modules1643047313712073541 1
+91/home/ananta/Projects/todo-app-litHtml/node_modules/caniuse-lite/data/features/png-alpha.js1643046899467999000 0
 68/home/ananta/Projects/todo-app-litHtml/node_modules/has-yarn/license1643046874135999000 0
 72/home/ananta/Projects/todo-app-litHtml/node_modules/core-js/actual/array1643047313500072670 1
 89/home/ananta/Projects/todo-app-litHtml/node_modules/core-js/stable/array/virtual/every.js1643046902766000000 0
@@ -6284,25 +6294,6 @@
 81/home/ananta/Projects/todo-app-litHtml/node_modules/@parcel/utils/lib/throttle.js1643046875246999000 0
 76/home/ananta/Projects/todo-app-litHtml/node_modules/is-weakref/.eslintignore1643046922009000000 0
 87/home/ananta/Projects/todo-app-litHtml/node_modules/caniuse-lite/data/features/xhtml.js1643046899467999000 0
-78/home/ananta/Projects/todo-app-litHtml/node_modules/@types/node/inspector.d.ts1643046908904000000 0
-97/home/ananta/Projects/todo-app-litHtml/node_modules/core-js/modules/esnext.array.filter-reject.js1643046902766000000 0
-82/home/ananta/Projects/todo-app-litHtml/node_modules/source-map/lib/mapping-list.js1635308064566999000 0
-67/home/ananta/Projects/todo-app-litHtml/node_modules/@iarna/toml/lib1643047313100071028 1
-90/home/ananta/Projects/todo-app-litHtml/node_modules/es-abstract/2021/InstanceofOperator.js1643046921940000000 0
-89/home/ananta/Projects/todo-app-litHtml/node_modules/core-js/features/date/to-primitive.js1643046902766000000 0
-80/home/ananta/Projects/todo-app-litHtml/node_modules/core-js/stable/math/hypot.js1643046902766000000 0
-76/home/ananta/Projects/todo-app-litHtml/node_modules/xxhash-wasm/package.json1643046899928999000 0
-72/home/ananta/Projects/todo-app-litHtml/node_modules/json-source-map/spec1643047313328071965 1
-107/home/ananta/Projects/todo-app-litHtml/node_modules/caniuse-lite/data/features/document-scrollingelement.js1643046899467999000 0
-98/home/ananta/Projects/todo-app-litHtml/node_modules/caniuse-lite/data/features/css-nth-child-of.js1643046899467999000 0
-84/home/ananta/Projects/todo-app-litHtml/node_modules/registry-auth-token/package.json1643046874407999000 0
-76/home/ananta/Projects/todo-app-litHtml/node_modules/events/tests/num-args.js1635308054676000000 0
-77/home/ananta/Projects/todo-app-litHtml/node_modules/@parcel/namer-default/lib1643047313128071143 1
-90/home/ananta/Projects/todo-app-litHtml/node_modules/es-abstract/2015/EnumerableOwnNames.js1643046921940000000 0
-91/home/ananta/Projects/todo-app-litHtml/node_modules/core-js/actual/reflect/to-string-tag.js1643046902766000000 0
-76/home/ananta/Projects/todo-app-litHtml/node_modules/filesize/lib/filesize.js1643046894390000000 0
-73/home/ananta/Projects/todo-app-litHtml/node_modules/public-encrypt/xor.js1635308053707999000 0
-77/home/ananta/Projects/todo-app-litHtml/node_modules/package-json/node_modules1643047313756073722 1
 91/home/ananta/Projects/todo-app-litHtml/node_modules/caniuse-lite/data/features/flow-root.js1643046899467999000 0
 94/home/ananta/Projects/todo-app-litHtml/node_modules/caniuse-lite/data/features/inline-block.js1643046899467999000 0
 111/home/ananta/Projects/todo-app-litHtml/node_modules/caniuse-lite/data/features/private-methods-and-accessors.js1643046899467999000 0
@@ -6339,6 +6330,13 @@
 92/home/ananta/Projects/todo-app-litHtml/node_modules/@babel/types/lib/comments/addComments.js1643046912404999000 0
 85/home/ananta/Projects/todo-app-litHtml/node_modules/caniuse-lite/data/features/es6.js1643046899467999000 0
 92/home/ananta/Projects/todo-app-litHtml/node_modules/es-abstract/2019/StringGetOwnProperty.js1643046921940000000 0
+92/home/ananta/Projects/todo-app-litHtml/node_modules/es-abstract/2016/ToPropertyDescriptor.js1643046921940000000 0
+71/home/ananta/Projects/todo-app-litHtml/node_modules/@types/node/v8.d.ts1643046908904000000 0
+83/home/ananta/Projects/todo-app-litHtml/node_modules/caniuse-lite/data/regions/AG.js1643046899467999000 0
+73/home/ananta/Projects/todo-app-litHtml/node_modules/assert/build/internal1643047313408072293 1
+70/home/ananta/Projects/todo-app-litHtml/node_modules/bl/test/indexOf.js1643046906747999000 0
+101/home/ananta/Projects/todo-app-litHtml/node_modules/caniuse-lite/data/features/http-live-streaming.js1643046899467999000 0
+80/home/ananta/Projects/todo-app-litHtml/node_modules/core-js/stable/array/virtual1643047313648073278 1
 68/home/ananta/Projects/todo-app-litHtml/node_modules/dot-prop/license1643046874283999000 0
 117/home/ananta/Projects/todo-app-litHtml/node_modules/@parcel/node-resolver-core/test/fixture/node_modules/foo/index.js1643046908368000000 0
 58/home/ananta/Projects/todo-app-litHtml/node_modules/pbkdf21643047313756073722 1
@@ -6887,9 +6885,6 @@
 84/home/ananta/Projects/todo-app-litHtml/node_modules/asn1.js/lib/asn1/encoders/der.js1635308059640000000 0
 95/home/ananta/Projects/todo-app-litHtml/node_modules/@nodelib/fs.scandir/out/providers/sync.d.ts1643046915450000000 0
 99/home/ananta/Projects/todo-app-litHtml/node_modules/caniuse-lite/data/features/link-rel-prefetch.js1643046899467999000 0
-77/home/ananta/Projects/todo-app-litHtml/node_modules/@babel/traverse/README.md1643046902551000000 0
-66/home/ananta/Projects/todo-app-litHtml/node_modules/mimic-response1643047312988070568 1
-66/home/ananta/Projects/todo-app-litHtml/node_modules/buffer/LICENSE1635308085303999000 0
 80/home/ananta/Projects/todo-app-litHtml/node_modules/es-to-primitive/CHANGELOG.md1635308060040999000 0
 75/home/ananta/Projects/todo-app-litHtml/node_modules/icss-utils/CHANGELOG.md1643046920226999000 0
 96/home/ananta/Projects/todo-app-litHtml/node_modules/caniuse-lite/data/features/es6-generators.js1643046899467999000 0
@@ -7289,6 +7284,7 @@
 77/home/ananta/Projects/todo-app-litHtml/node_modules/unbox-primitive/README.md1635308060473999000 0
 68/home/ananta/Projects/todo-app-litHtml/node_modules/bl/BufferList.js1643046906747999000 0
 75/home/ananta/Projects/todo-app-litHtml/node_modules/unbox-primitive/.github1643047313400072260 1
+66/home/ananta/Projects/todo-app-litHtml/node_modules/buffer/LICENSE1635308085303999000 0
 93/home/ananta/Projects/todo-app-litHtml/node_modules/es-abstract/2015/DefinePropertyOrThrow.js1643046921940000000 0
 77/home/ananta/Projects/todo-app-litHtml/node_modules/unbox-primitive/.eslintrc1635308060473999000 0
 84/home/ananta/Projects/todo-app-litHtml/node_modules/registry-auth-token/CHANGELOG.md1643046874407999000 0
@@ -7805,7 +7801,7 @@
 64/home/ananta/Projects/todo-app-litHtml/node_modules/@parcel/core1643047313696073475 1
 109/home/ananta/Projects/todo-app-litHtml/node_modules/htmlnano/docs/versioned_docs/version-2.0.0/040-presets.md1643046903088999000 0
 90/home/ananta/Projects/todo-app-litHtml/node_modules/posthtml-parser/dist/chunk.T6SARJYH.js1643046903569999000 0
-66/home/ananta/Projects/todo-app-litHtml/dist/index.b2625c6b.css.map1643088592946303980 0
+66/home/ananta/Projects/todo-app-litHtml/dist/index.b2625c6b.css.map1643197264787076698 0
 112/home/ananta/Projects/todo-app-litHtml/node_modules/htmlnano/docs/versioned_sidebars/version-2.0.0-sidebars.json1643046903088999000 0
 88/home/ananta/Projects/todo-app-litHtml/node_modules/@babel/helper-module-imports/LICENSE1643046918744999000 0
 99/home/ananta/Projects/todo-app-litHtml/node_modules/es-abstract/2021/GetPrototypeFromConstructor.js1643046921940000000 0
@@ -7885,6 +7881,8 @@
 72/home/ananta/Projects/todo-app-litHtml/node_modules/side-channel/.github1643047313384072194 1
 92/home/ananta/Projects/todo-app-litHtml/node_modules/core-js/features/object/define-getter.js1643046902766000000 0
 76/home/ananta/Projects/todo-app-litHtml/node_modules/@types/node/globals.d.ts1643046908904000000 0
+66/home/ananta/Projects/todo-app-litHtml/node_modules/mimic-response1643047312988070568 1
+77/home/ananta/Projects/todo-app-litHtml/node_modules/@babel/traverse/README.md1643046902551000000 0
 92/home/ananta/Projects/todo-app-litHtml/node_modules/core-js/stable/array/virtual/index-of.js1643046902766000000 0
 71/home/ananta/Projects/todo-app-litHtml/node_modules/weak-lru-cache/dist1643047313404072276 1
 67/home/ananta/Projects/todo-app-litHtml/node_modules/which/bin/which1635308078423000000 0
@@ -11071,7 +11069,7 @@
 81/home/ananta/Projects/todo-app-litHtml/node_modules/core-js/stable/is-iterable.js1643046902766000000 0
 83/home/ananta/Projects/todo-app-litHtml/node_modules/@parcel/source-map/dist/node.js1643046879275000000 0
 93/home/ananta/Projects/todo-app-litHtml/node_modules/core-js/features/reflect/to-string-tag.js1643046902766000000 0
-61/home/ananta/Projects/todo-app-litHtml/dist/index.975ef6c8.js1643174228709025468 0
+61/home/ananta/Projects/todo-app-litHtml/dist/index.975ef6c8.js1643197264827076892 0
 83/home/ananta/Projects/todo-app-litHtml/node_modules/core-js/stable/date/set-year.js1643046902766000000 0
 87/home/ananta/Projects/todo-app-litHtml/node_modules/core-js/modules/es.object.freeze.js1643046902766000000 0
 80/home/ananta/Projects/todo-app-litHtml/node_modules/es-abstract/2020/ToNumber.js1643046921940000000 0
@@ -11153,7 +11151,7 @@
 84/home/ananta/Projects/todo-app-litHtml/node_modules/core-js/stable/array/index-of.js1643046902766000000 0
 86/home/ananta/Projects/todo-app-litHtml/node_modules/core-js/stable/array/find-index.js1643046902766000000 0
 78/home/ananta/Projects/todo-app-litHtml/node_modules/core-js/stable/array/at.js1643046902766000000 0
-42/home/ananta/Projects/todo-app-litHtml/src1643052583397130895 1
+42/home/ananta/Projects/todo-app-litHtml/src1643197210406814472 1
 83/home/ananta/Projects/todo-app-litHtml/node_modules/core-js/stable/array/reverse.js1643046902766000000 0
 95/home/ananta/Projects/todo-app-litHtml/node_modules/browserify-rsa/node_modules/bn.js/README.md1635308057130000000 0
 82/home/ananta/Projects/todo-app-litHtml/node_modules/core-js/stable/array/filter.js1643046902766000000 0
@@ -12141,7 +12139,7 @@
 65/home/ananta/Projects/todo-app-litHtml/node_modules/@babel/parser1643047312664069238 1
 84/home/ananta/Projects/todo-app-litHtml/node_modules/core-js/actual/date/to-string.js1643046902766000000 0
 86/home/ananta/Projects/todo-app-litHtml/node_modules/core-js/internals/a-constructor.js1643046902766000000 0
-53/home/ananta/Projects/todo-app-litHtml/src/addTask.js1643173972958324178 0
+53/home/ananta/Projects/todo-app-litHtml/src/addTask.js1643197233406924848 0
 86/home/ananta/Projects/todo-app-litHtml/node_modules/core-js/stable/array/virtual/at.js1643046902766000000 0
 91/home/ananta/Projects/todo-app-litHtml/node_modules/core-js/internals/add-to-unscopables.js1643046902766000000 0
 60/home/ananta/Projects/todo-app-litHtml/node_modules/error-ex1643047312892070174 1
@@ -12905,6 +12903,7 @@
 99/home/ananta/Projects/todo-app-litHtml/node_modules/@swc/helpers/lib/_apply_decorated_descriptor.js1643046908197000000 0
 90/home/ananta/Projects/todo-app-litHtml/node_modules/core-js/features/array/virtual/sort.js1643046902766000000 0
 121/home/ananta/Projects/todo-app-litHtml/node_modules/source-map-support/node_modules/source-map/lib/source-map-consumer.js1635308055193000000 0
+115/home/ananta/Projects/todo-app-litHtml/node_modules/source-map-support/node_modules/source-map/lib/binary-search.js1635308055193000000 0
 111/home/ananta/Projects/todo-app-litHtml/node_modules/source-map-support/node_modules/source-map/lib/array-set.js1635308055193000000 0
 66/home/ananta/Projects/todo-app-litHtml/node_modules/jsesc/jsesc.js1635308075108000000 0
 72/home/ananta/Projects/todo-app-litHtml/node_modules/miller-rabin/test.js1635308057470999000 0
